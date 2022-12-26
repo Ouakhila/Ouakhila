@@ -2,7 +2,7 @@
 ### I am Ouakhila 🧕🏾😎
 My love for art and technology made me discover the field of gaming. This is a list of the projects I worked on during the London Studio PlayStation and Coding Black Females mentorship programmes.
 
-![Alt img](Images/WPFimg.jpeg.JPG)
+![Alt img](Images/Capture.JPG)
 
 ## BIO 🧕🏾
 
