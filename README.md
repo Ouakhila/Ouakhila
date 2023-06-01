@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I am Ouakhila 🧕🏾😎
-My love for art and technology made me discover the field of gaming. This is a list of the projects I worked on during the London Studio PlayStation and Coding Black Females mentorship programmes.
 
-![Alt img](Images/Capture.JPG)
 
 ## BIO 🧕🏾
 
@@ -17,7 +15,7 @@ Ouakhilatou is working to develop her skills in a new field she has no experienc
 ### My technical skills (which I am continuously learning)
 - HTML and CSS 
 - JavaScript 
-- React
+- React.js
 - NodeJs
 - -Mongo DB
 - C#
