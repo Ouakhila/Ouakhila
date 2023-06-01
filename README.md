@@ -4,7 +4,7 @@
 
 ## BIO 🧕🏾
 
-Ouakhilatou is working to develop her skills in a new field she has no experience in. She successfully completed her Master's Degree in Computer Science at the University of Wolverhampton. She has worked on different projects with different web technologies. She realised that she was missing a lot of basic knowledge and the fundamentals of technical skills. Ouakhilatou applied for a 30 weeks bootcamp by CBF & Niyo Group. In her free time, she likes watching movies on NetFlix, going for a hike, doing nature photography, and sharing videos of her journey on her YouTube Channel.
+Ouakhilatou is working to develop her skills in a new field she has no experience in. She successfully completed her Master's Degree in Computer Science at the University of Wolverhampton. She has worked on different projects with different web technologies. 
 
 ## EDUCATION 👩🏾‍💻
 
