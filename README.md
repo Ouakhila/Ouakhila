@@ -4,7 +4,7 @@
 
 ## BIO 🧕🏾
 
- She successfully completed her Master's Degree in Computer Science at the University of Wolverhampton. She has worked on range of projects with different web technologies. 
+ Master's Degree in Computer Science at the University of Wolverhampton She has successfully completed her full stack development bootcamp with a rising star award. She has worked on range of projects with different web technologies. 
 
 ## EDUCATION 👩🏾‍💻
 
