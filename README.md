@@ -4,7 +4,7 @@
 
 ## BIO 🧕🏾
 
-Ouakhilatou is working to develop her skills in a new field she has no experience in. She successfully completed her Master's Degree in Computer Science at the University of Wolverhampton. She has worked on different projects with different web technologies. 
+ She successfully completed her Master's Degree in Computer Science at the University of Wolverhampton. She has worked on range of projects with different web technologies. 
 
 ## EDUCATION 👩🏾‍💻
 
@@ -23,13 +23,6 @@ Ouakhilatou is working to develop her skills in a new field she has no experienc
 - Unity
 
 
-### Links to my favorite websites
-
-- [freeCodeCamp](https://www.freecodecamp.org/settings)
-- [Blackcodher Learning Platform](https://learning.blackcodher.tech/)
-- [exercism.io](https://exercism.org/)
-- [hackerrank](https://www.hackerrank.com/dashboard)
-- [Netflix](https://www.netflix.com/gb/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse)
 
 
 
