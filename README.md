@@ -12,12 +12,14 @@
 - Master's degree in computer science at _University of Wolverhampton_
 - Bachelor's degree in Telecommunication engineering at _Ghana Technology University College_
 
-### My technical skills (which I am continuously learning)
+### My technical skills 
 - HTML and CSS 
 - JavaScript 
 - React.js
-- NodeJs
-- -Mongo DB
+- Lumen Laravel 
+- PHP
+- MySQL
+- Eloquent
 - C#
 - .NET
 - Unity
