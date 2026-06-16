@@ -4,7 +4,7 @@
 
 ## BIO 🧕🏾
 
- Master's Degree in Computer Science at the University of Wolverhampton She has successfully completed her full stack development bootcamp with a rising star award. She has worked on range of projects with different web technologies.She is working as a Junior software Developer and also working on her an AR VR project
+She holds a Master's Degree in Computer Science from the University of Wolverhampton and works as a Mid-Level Backend Engineer. She contributes to the development of scalable backend systems and APIs, with a growing interest in application security, software architecture, and emerging technologies. She is passionate about continuous learning and building secure, reliable software solutions.
 
 ## EDUCATION 👩🏾‍💻
 
